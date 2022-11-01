@@ -4,6 +4,5 @@
 This repo is created to practice GIT.
 
 #Edits being done on local machine
-aibhsuidbasibd
-ahsdbsahd
-abhdbsabdisda
+
+Making changes in local and pushing to a new branch called 3rd-Html
